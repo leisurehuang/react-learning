@@ -1,0 +1,26 @@
+{
+  "name": "react-test",
+  "version": "0.0.1",
+  "description": "this is a test react project",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leisurehuang/react_-learning.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Lei Huang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leisurehuang/react_-learning/issues"
+  },
+  "homepage": "https://github.com/leisurehuang/react_-learning#readme",
+  "dependencies": {
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1"
+  }
+}
